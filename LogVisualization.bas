@@ -2,6 +2,8 @@
 ' This VBA program is licensed as MIT License
 ' About MIT License, please see LICENSE file in same GitHub repository (Umemaru/UiPath_LogVisualization)
 ' Copyright (c) 2018 Umemaru (@UmegayaRollcake)
+' https://github.com/Umemaru/UiPath_LogVisualization/blob/master/LICENSE
+
 ' 2018/08/30 Initial release - Umemaru
 
 ' UiPathの実行ログを収集しExcelシートで可視化するVBAマクロです。
